@@ -55,10 +55,10 @@
   ![Key Metrics](https://github.com/user-attachments/assets/014fd64c-5268-43c3-9644-189f5699af21)
 
   ### Results 1.0
-   Total Revenue - The total revenue of the company for the year 2024 is #29,000,000
-   Total Deposit : The total deposit made by customers #10,000,000
-   Total Balance : Total balance is #3,000,000
-   Cost of digitizing :  #87,000. Cost of digitizing is the amount customer paid to digitize their logo, whenever they want to do monogram logo.
+   - Total Revenue - The total revenue of the company for the year 2024 is #29,000,000
+   - Total Deposit : The total deposit made by customers #10,000,000
+  - Total Balance : Total balance is #3,000,000
+   - Cost of digitizing :  #87,000. Cost of digitizing is the amount customer paid to digitize their logo, whenever they want to do monogram logo.
 
    
    ### Data Analysis 2
@@ -67,8 +67,9 @@
 
   ### Result 2.0
   Top Selling Services Breakdown
- - Production is one of the top selling services, with a total revenue of #11,342,350 production used in this analysis is the production of garment, tote bag, production of uniform.
-    - While monogram is the second top selling services with a total sales of #5,983,530.
+ - Production is one of the top selling services, with a total revenue of #11,342,350
+ - The term production used in this analysis is the production of garment, tote bag, production of uniform.
+ - Monogram is the second top selling services with a total sales of #5,983,530.
 
 
     ### Recommendation 2.1
@@ -105,7 +106,7 @@ Launch campaigns around peak seasons, such as back to school periods for uniform
 
   ### Recommendation 4.1
   - Enhance Thursday Promotion - The company can offer special discounts or limited time promotions only available on Thursday to attract more customers.
-  -  Schedule additional staff for thursdas to manage the higher customer traffic efficiently, ensuring faster service and better customer experience.
+  -  Schedule additional staff for Thursday to manage the higher customer traffic efficiently, ensuring faster service and better customer experience.
   -  The company should also extend Thursday deals to early friday or introduce "Friday Slash Sales" to keep momentum going.
 Offer incentives "Like vouchers or discounts" Thursday customers to return later in the week.
 
