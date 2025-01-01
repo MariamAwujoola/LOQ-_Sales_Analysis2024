@@ -41,7 +41,7 @@
 
 
    ### Data Cleaning/Preparation
-   I performed the folllowing task
+   I performed the following task
    - Gathering of raw data - Cash Sales Book 
    - Data loading and inspection
    - Data cleaning and formatting - Power Query
