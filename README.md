@@ -12,16 +12,15 @@
 - [Recommendation 2.1](#recommendation-21)
 - [Data Analysis 3](#data-analysis-3)
 - [Result/Findings 3.0](#result-/findings-30)
-- [Recommendation 3.1](#recommendation-31)
 - [Data Analysis 4](#data-analysis-4)
-- [Result/Findings 4](#result-/findings-4)
+- [Result/Findings 4](#result-/-findings-4)
 - [Recommendation 4.1](#recommendation-41)
 - [Data Analysis 5](#data-analysis-5)
-- [Result/Findings 5.0](#result-/findings-50)
+- [Result/Findings 5.0](#result-/-findings-50)
 - [Recommendation 5.1](#recommendation-51)
 - [Data Analysis 6](#data-analysis-6)
-- [Result/Findings 6.0](#result-/findings-60)
-- [Recommendation 6.1](#recommendation-61)
+- [Result/Findings 6.0](#result-/-findings-60)
+
 - - -
 ## Project Overview
   This sales analysis project aims to provide insights into the sales performance of the company for the year 2024, LOQ Designs Limited is a fashion company that deals in production of garment, sewing of customized shirt, uniforms, all sort of printing like monogram, screen printing and borderlesss printing. 
