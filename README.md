@@ -11,7 +11,7 @@
 - [Result 2.0](#result-20)
 - [Recommendation 2.1](#recommendation-2.1)
 - [Data Analysis 3](#data-analysis-3)
-- [Result/Findings 3.0](#result-/findings-3.0)
+- [Result/Findings 3.0](#result-/findings-30)
 - [Recommendation 3.1](#recommendation-3.1)
 - [Data Analysis 4](#data-analysis-4)
 - [Result/Findings 4](#result-/findings-4.0)
