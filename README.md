@@ -4,11 +4,11 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning-/-preparation)
 - [Data Analysis 1](#data-analysis-1)
 - [Result 1.0](#result-10)
 - [Data Analysis 2](#data-analysis-2)
-- [Result 2.0](#result-2.0)
+- [Result 2.0](#result-20)
 - [Recommendation 2.1](#recommendation-2.1)
 - [Data Analysis 3](#data-analysis-3)
 - [Result/Findings 3.0](#result-/findings-3.0)
@@ -54,7 +54,7 @@
    
   ![Key Metrics](https://github.com/user-attachments/assets/014fd64c-5268-43c3-9644-189f5699af21)
 
-  ### Results 1.0
+  ### Result 1.0
    - Total Revenue - The total revenue of the company for the year 2024 is #29,000,000
    - Total Deposit : The total deposit made by customers #10,000,000
   - Total Balance : Total balance is #3,000,000
